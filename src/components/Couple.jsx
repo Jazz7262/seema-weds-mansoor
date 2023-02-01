@@ -27,11 +27,11 @@ function Couple() {
                                     data-target="#carouselIndicators"
                                     data-slide-to="1"
                                 ></li>
-                                {/* <li
+                                <li
                                     data-target="#carouselIndicators"
                                     data-slide-to="2"
-                                ></li> 
-                                <li
+                                ></li>
+                                {/* <li
                                     data-target="#carouselIndicators"
                                     data-slide-to="3"
                                 ></li>
@@ -53,7 +53,7 @@ function Couple() {
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
-                                            src="../assets/images/groom.png"
+                                            src="../assets/images/groom1.jpeg"
                                             alt="couple_img"
                                         />
                                     </div>
@@ -62,20 +62,20 @@ function Couple() {
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
-                                            src="../assets/images/groom.png"
+                                            src="../assets/images/groom2.jpeg"
                                             alt="couple_img"
                                         />
                                     </div>
                                 </div>
-                                {/* <div className="carousel-item">
+                                <div className="carousel-item">
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
-                                            src="../assets/images/groom.png"
+                                            src="../assets/images/groom3.jpeg"
                                             alt="couple_img"
                                         />
                                     </div>
-                                </div> */}
+                                </div>
                             </div>
                             <a
                                 className="carousel-control-prev"
@@ -165,10 +165,10 @@ function Couple() {
                                     data-target="#bride-carousel-indicators"
                                     data-slide-to="1"
                                 ></li>
-                                {/* <li
+                                <li
                                     data-target="#bride-carousel-indicators"
                                     data-slide-to="2"
-                                ></li> */}
+                                ></li>
                             </ol>
                             <div className="carousel-inner">
                                 <div className="carousel-item active">
@@ -189,7 +189,7 @@ function Couple() {
                                         />
                                     </div>
                                 </div>
-                                {/* <div className="carousel-item">
+                                <div className="carousel-item">
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
@@ -197,7 +197,7 @@ function Couple() {
                                             alt="couple_img"
                                         />
                                     </div>
-                                </div> */}
+                                </div>
                             </div>
                             <a
                                 className="carousel-control-prev"
