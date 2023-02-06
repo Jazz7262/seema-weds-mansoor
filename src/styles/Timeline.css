@@ -91,7 +91,7 @@
 /* New Mobile Phones Wide Screens */
 @media (max-width: 428px) {
     /* Multi - Timeline - start */
-    .multi-timeline {
+    #timeline {
         padding: 7% 10% 10%;
     }
     .next {
@@ -115,9 +115,6 @@
     /* Multi - Timeline - end */
 
     /* Single - Timeline - start */
-    .single-timeline {
-        padding: 7% 10%;
-    }
     .single-timeline .wrapper {
         border: 5px solid rgb(162, 0, 109);
     }
